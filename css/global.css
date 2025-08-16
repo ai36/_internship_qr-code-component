@@ -1,0 +1,12 @@
+body {
+  width: clamp(var(--size-min-viewport-width), 100%, var(--size-max-viewport-width));
+  min-height: 100dvh;
+  margin-inline: auto;
+  background: var(--color-state-300);
+
+  main {
+    display: grid;
+    place-content: center;
+    min-height: calc(100dvh - 48px);
+  }
+}

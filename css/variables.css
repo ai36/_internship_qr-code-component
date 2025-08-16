@@ -1,0 +1,38 @@
+:root {
+  --size-min-viewport-width: 375px;
+  --size-max-viewport-width: 1440px;
+  --size-max-width-card: 320px;
+  --size-max-height-title: 52px;
+  --size-max-height-desc: 63px;
+
+  --size-2: 2px;
+  --size-4: 4px;
+  --size-8: 8px;
+  --size-10: 10px;
+  --size-12: 12px;
+  --size-14: 14px;
+  --size-16: 16px;
+  --size-18: 18px;
+  --size-20: 20px;
+  --size-24: 24px;
+  --size-28: 28px;
+  --size-32: 32px;
+  --size-36: 36px;
+  --size-40: 40px;
+  --size-48: 48px;
+
+  --spacing-200: 16px;
+  --spacing-300: 24px;
+  --spacing-500: 40px;
+
+  --typography-font-family: Outfit, sans-serif;
+  --typography-text-present-1: 22px/120%;
+  --typography-text-present-2: 15px/140%;
+
+  --color-white: hsl(0, 0%, 100%);
+  --color-state-300: hsl(212, 45%, 89%);
+  --color-state-500: hsl(216, 15%, 48%);
+  --color-state-900: hsl(218, 44%, 22%);
+
+  --shadow: 0 0 10px #0000001A;
+}

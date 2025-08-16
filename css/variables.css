@@ -34,5 +34,5 @@
   --color-state-500: hsl(216, 15%, 48%);
   --color-state-900: hsl(218, 44%, 22%);
 
-  --shadow: 0 0 10px #0000001A;
+  --shadow: 0 25px 25px rgb(0 0 0 / 4.77%);
 }

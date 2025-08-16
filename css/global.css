@@ -7,6 +7,6 @@ body {
   main {
     display: grid;
     place-content: center;
-    min-height: calc(100dvh - 48px);
+    min-height: 100dvh;
   }
 }
